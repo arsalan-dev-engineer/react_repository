@@ -1,0 +1,16 @@
+
+/* MainLayout.module.css */
+.layoutContainer {
+  background-color: #5f89b4;
+  min-height: 90vh;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+
+  max-width: 1200px;
+  width: calc(100% - 2rem); /* Always leaves 1rem space on each side */
+  box-sizing: border-box;
+}
+
+
