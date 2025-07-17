@@ -1,0 +1,15 @@
+/* Navbar.module.css */
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.navbar {
+    z-index: 1050;
+    /* Ensures dropdowns show above other content */
+    font-size: 22px;
+    margin: 10px;
+}
+
+.navbar li {
+    margin-left: 1em;
+}
